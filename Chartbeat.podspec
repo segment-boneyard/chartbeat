@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name           = 'Chartbeat'
   s.version        = '0.0.1'
   s.license        = 'Commercial'
-  s.summary        = 'Chartbeat Analytics library for iOS.'
+  s.summary        = 'Chartbeat analytics library for iOS'
   s.homepage       = 'https://chartbeat.com/docs/ios/'
   s.author         = { 'Chartbeat' => 'https://chartbeat.com' }
 
